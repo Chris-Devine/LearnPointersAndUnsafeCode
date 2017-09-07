@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnPointersAndUnsafeCode", "LearnPointersAndUnsafeCode\LearnPointersAndUnsafeCode.csproj", "{CFDC7562-B355-44CE-A739-7B8DD7C0193E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFDC7562-B355-44CE-A739-7B8DD7C0193E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDC7562-B355-44CE-A739-7B8DD7C0193E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDC7562-B355-44CE-A739-7B8DD7C0193E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDC7562-B355-44CE-A739-7B8DD7C0193E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9025508-6781-4B8C-85D5-1EE36FC42D43}
+	EndGlobalSection
+EndGlobal
